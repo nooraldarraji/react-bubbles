@@ -4,7 +4,7 @@ const CORS = require("cors");
 
 const app = express();
 const token =
-  "ahuBHejkJJiMDhmODZhZi0zaeLTQ4ZfeaseOGZgesai1jZWYgrTA07i73Gebhu98";
+  "I'm lying I am not even a token";
 
 app.use(bodyParser.json());
 app.use(CORS());
